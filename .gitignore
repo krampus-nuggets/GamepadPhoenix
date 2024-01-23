@@ -1,6 +1,9 @@
-Debug/
-Release/
+# Intial Ignores
 .vs/
 *.suo
 *.user
 *.aps
+
+# Added Ignores
+.vscode/
+build/
